@@ -1,12 +1,2 @@
-# Папки сборки и IDE
 .idea/
 target/
-*.iml
-out/
-bin/
-build/
-
-# Логи и временные файлы
-*.log
-*.tmp
-Thumbs.db
